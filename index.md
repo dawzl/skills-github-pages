@@ -1,4 +1,4 @@
 ---
-title: firstpage
+title: "firstpage"
 ---
 Today is Friday!!
