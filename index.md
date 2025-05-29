@@ -1,3 +1,4 @@
 ---
-Today is Friday!!
+title: firstpage
 ---
+Today is Friday!!
